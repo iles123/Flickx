@@ -7,7 +7,7 @@ export default function CTACard() {
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
-      className="max-w-4xl mx-auto"
+      className="max-w-4xl mx-auto py-12 sm:py-16 md:py-20 lg:py-24"
     >
       <div className="relative group mb-20 mt-20">
         {/* Gradient Background Effect */}
