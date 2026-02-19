@@ -5,7 +5,7 @@ import Home from '../components/Home';
 // import Studio from '../components/Studio';
 // import Talent from '../components/Talent';
 import Fund from '../components/Fund';
-// import CreativeBase from '../components/CreativeBase';
+import CreativeBase from '../components/CreativeBase';
 import AboutUs from '../components/AboutUs';
 import Footer from '../components/Footer';
 import LoginForm from '../components/auth/LoginForm';

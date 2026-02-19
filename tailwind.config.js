@@ -6,6 +6,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+    'xs': '475px',
+    // ... default ones remain
+  },
        keyframes: {
         slide: {
           '0%': { transform: 'translateX(0)' },
