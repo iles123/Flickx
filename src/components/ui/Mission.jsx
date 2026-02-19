@@ -29,12 +29,8 @@ function Mission() {
               <Eye className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-3xl font-bold text-gray-900 mb-4">Our Vision</h3>
-            <p className="text-xl text-gray-700 mb-4 font-light italic">
-              "To be the leading catalyst for African creative excellence on the global stage."
-            </p>
             <p className="text-gray-600">
-              We envision a continent where every creative professional has the tools, resources, 
-              and opportunities to share their stories with the world.
+             A thriving African creative ecosystem where talent is nurtured, stories are celebrated, and creators compete on the world stage.
             </p>
           </motion.div>
 
@@ -48,11 +44,8 @@ function Mission() {
               <Rocket className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-3xl font-bold text-gray-900 mb-4">Our Mission</h3>
-            <p className="text-xl text-gray-700 mb-4 font-light italic">
-              "Empowering Africa's creative talent through accessible education, funding, and community."
-            </p>
             <p className="text-gray-600">
-              We're building an integrated ecosystem that nurtures creativity from concept to global audience.
+             Democratize access to world-class creative education and resources across Africa, empowering storytellers to create authentic content and build sustainable careers.
             </p>
           </motion.div>
         </div>
